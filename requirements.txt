@@ -1,0 +1,7 @@
+colorama
+time
+random
+pillow
+pywin32
+cryptography
+pytelegrambotapi
